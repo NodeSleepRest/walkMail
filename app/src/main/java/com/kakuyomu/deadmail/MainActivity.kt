@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     // メール本文
     private val strText: String = "本文"
     // 宛先アドレス
-    private val strTo: String = "dddRcfgcardplusw@gmail.com"
+    private val strTo: String = "メールアドレス"
 
     // 効果音
     private lateinit var audioAttrivutes: AudioAttributes

@@ -25,4 +25,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/company_glass_ceiling_break" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
